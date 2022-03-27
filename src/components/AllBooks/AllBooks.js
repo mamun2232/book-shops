@@ -33,13 +33,13 @@ const AllBooks = () => {
             }
             
       }
-      const [book , setBook] = useState([])
+      const [randombook , SetrandomBook] = useState([])
      
 //      random prodect hendeler 
  const randomBook = () =>{
       const randomProduct = carts[Math.floor(Math.random() * carts.length)]
       if(carts.length > 1){
-       setBook(randomProduct)
+       SetrandomBook(randomProduct)
        }
        else{
              alert('Noting to chouse from only item')
@@ -48,7 +48,7 @@ const AllBooks = () => {
 
  const clearCart = () =>{
        setCart([])
-       setBook([])
+       SetrandomBook([])
  }
 
       return (
@@ -97,10 +97,10 @@ const AllBooks = () => {
                        <div className='random-cart'>
                        <div className="cart-img">
 
-                        <img src={book.img} alt="" />
+                        <img src={randombook.img} alt="" />
                         </div>
                         <div className="cart-name">
-                        <p>{book.name}</p>
+                        <p>{randombook.name}</p>
                         </div>
                        </div>
                   <div className="div">
