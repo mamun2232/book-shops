@@ -14,7 +14,7 @@ const Book = ({data , cartAdd}) => {
                         <p>Writer By <span className='text-danger'>{writer}</span></p>
                         <h5> ${price}</h5>
                   </div>
-                  <button onClick={() => cartAdd(id)} className='btn btn-primary'>Add To Cart</button>
+                  <button onClick={() => cartAdd(data)} className='btn btn-primary'>Add To Cart</button>
                   
             </div>
       );

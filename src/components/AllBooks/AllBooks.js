@@ -4,17 +4,23 @@ import './AllBooks.css'
 
 const AllBooks = () => {
       const [books , SetBook] = useState([])
+      // data fect by useEffect 
       useEffect(()=>{
             fetch('books.json')
             .then(res => res.json())
             .then(data => SetBook(data))
       },[])
 
+      // show display cart in ui 
+      const [cart , setCart] = useState([books])
+
       // click Hundelar 
-      const cartAdd = (id) => {
-            SetBook(id)
-            console.log('click' , id);
+      const cartAdd = (product) => {
+            const newCart = [...cart , product]
+            setCart(newCart)
+            
       }
+      console.log(cart);
       
 
 
