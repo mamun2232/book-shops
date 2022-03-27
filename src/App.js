@@ -3,6 +3,7 @@ import Button from 'react-bootstrap/Button'
 import './App.css';
 import Header from './components/Header/Header';
 import AllBooks from './components/AllBooks/AllBooks';
+import Question from './components/Question/Question';
 
 
 function App() {
@@ -10,6 +11,7 @@ function App() {
     <div className="book-shops">
      <Header></Header>
      <AllBooks></AllBooks>
+     <Question></Question>
      
     </div>
   );
