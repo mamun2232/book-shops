@@ -1,6 +1,6 @@
 [
   {
-    "id": "1",
+    "id": 1,
     "name": "Kothao Kew Ney",
     "writer": " Humayun Ahmed",
     "price": 320,
@@ -9,7 +9,7 @@
 
   },
   {
-    "id": "2",
+    "id": 2,
     "name": "Opekkha",
     "writer": " Humayun Ahmed",
     "price": 196,
@@ -18,7 +18,7 @@
     
   },
   {
-    "id": "3",
+    "id": 3,
     "name": "Ekjon Mayaboti",
     "writer": " Humayun Ahmed",
     "price": 215,
@@ -27,7 +27,7 @@
 
   },
   {
-    "id": "4",
+    "id": 4,
     "name": " Himu Remand-E",
     "writer": " Humayun Ahmed",
     "price": 120,
@@ -36,7 +36,7 @@
 
   },
   {
-    "id": "5",
+    "id": 5,
     "name": "Aj Himur Biye",
     "writer": " Humayun Ahmed",
     "price": 145,
@@ -45,7 +45,7 @@
   
   },
   {
-    "id": "6",
+    "id": 6,
     "name": "Deyal",
     "writer": " Humayun Ahmed",
     "price": 238,
@@ -54,7 +54,7 @@
   
   },
   {
-    "id": "7",
+    "id": 7,
     "name": "Lilabotir MriTyu",
     "writer": " Humayun Ahmed",
     "price": 226,
@@ -62,7 +62,7 @@
     "img": "https://www.upoharbd.com/images/uploads/Books/Humayun%20Ahmed/book136.jpg"
   },
   {
-    "id": "8",
+    "id": 8,
     "name": "Blackholer Baccha",
     "writer": " Muhammad Jafor Iqbal",
     "price": 119,
@@ -70,7 +70,7 @@
     "img": "https://www.upoharbd.com/images/uploads/Books/blackhole-er-baccha.jpg"
   },
   {
-    "id": "9",
+    "id": 9,
     "name": "Ami Topu",
     "writer": " Muhammad Jafor Iqbal",
     "price": 170,
@@ -79,7 +79,7 @@
  
   },
   {
-    "id": "10",
+    "id": 10,
     "name": "Programming Er ChoddoGusti",
     "writer": "Jhankar Mahbub",
     "price": 297,
@@ -87,7 +87,7 @@
     "img": "https://m.media-amazon.com/images/I/41ifBtAoOcL.jpg"
   },
   {
-    "id": "11",
+    "id": 11,
     "name": "Programming E Bolod To Boss",
     "writer": "Jhankar Mahbub",
     "price": 346,
@@ -95,7 +95,7 @@
     "img": "https://m.media-amazon.com/images/I/41zq8jCSYJL.jpg"
   },
   {
-    "id": "12",
+    "id": 12,
     "name": "Recharge Your Dowen Battery",
     "writer": "Jhankar Mahbub",
     "price": 409,

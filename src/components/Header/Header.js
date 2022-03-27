@@ -3,9 +3,9 @@ import './Header.css'
 
 const Header = () => {
       return (
-            <div className='bg-light text-center py-2'>
-                  <h2>Book Shop</h2>
-                  <h3>Choose 4 Books</h3>
+            <div className='bg-light text-center py-4'>
+                  <h2><span className='text-primary'>BOOK</span> SHOP</h2>
+                  <h4 className='text-dark'>CHOOUSE YOUR FAVORITE BOOK</h4>
             </div>
       );
 };

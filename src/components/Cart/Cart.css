@@ -1,0 +1,26 @@
+.cart{
+  
+      display: flex;
+      margin: 5px 0px;
+      border-radius: 30px;
+      /* padding: 5px 5px; */
+      margin-left: 10px;
+      
+     
+    
+}
+.cart-name p {
+      font-size: 20px;
+      margin-left: 10px;
+      margin-top: 30px;
+}
+
+
+.cart-image img{
+      width: 60px;
+      height: 100px;
+      border-radius: 8px;
+     
+      
+
+}
