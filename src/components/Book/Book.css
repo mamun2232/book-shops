@@ -1,0 +1,11 @@
+.image-container img{
+      width: 200px;
+      height: 240px;
+      border-radius: 7px;
+     
+}
+
+.card{
+      padding: 15px 10px;
+      border-radius: 7px;
+}

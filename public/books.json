@@ -1,0 +1,106 @@
+[
+  {
+    "id": "1",
+    "name": "Kothao Kew Ney",
+    "writer": " Humayun Ahmed",
+    "price": 320,
+    "ratings": 4,
+    "img": "https://qph.fs.quoracdn.net/main-qimg-3321b4c9335d24511dd7e8b6c0039287.webp"
+
+  },
+  {
+    "id": "2",
+    "name": "Opekkha",
+    "writer": " Humayun Ahmed",
+    "price": 196,
+    "ratings": 5,
+    "img": "https://bdbookstore.com/wp-content/uploads/2021/04/Opekkha-by-Humayun-Ahmed.jpg"
+    
+  },
+  {
+    "id": "3",
+    "name": "Ekjon Mayaboti",
+    "writer": " Humayun Ahmed",
+    "price": 215,
+    "ratings": 4,
+    "img": "https://bdebooks.com/wp-content/uploads/2017/06/Ekjon-Mayaboti-by-Humayun-Ahmed.jpg"
+
+  },
+  {
+    "id": "4",
+    "name": " Himu Remand-E",
+    "writer": " Humayun Ahmed",
+    "price": 120,
+    "ratings": 5,
+    "img": "https://4.bp.blogspot.com/-Bi3lon1HSEQ/WGR7s0XgoWI/AAAAAAAAK-4/-t26FA9D5U8BqDuZd_WmNGTe04RqQIgwQCLcB/s1600/Himu%2BRemand-E%2Bby%2BHumayun%2BAhmed%2BPDF.jpg"
+
+  },
+  {
+    "id": "5",
+    "name": "Aj Himur Biye",
+    "writer": " Humayun Ahmed",
+    "price": 145,
+    "ratings": 4,
+    "img": "https://i.pinimg.com/550x/a6/ec/5f/a6ec5f42c3ac1d617140ed39578a5dda.jpg"
+  
+  },
+  {
+    "id": "6",
+    "name": "Deyal",
+    "writer": " Humayun Ahmed",
+    "price": 238,
+    "ratings": 3,
+    "img": "https://upload.wikimedia.org/wikipedia/en/9/94/Deyal_by_Humayun_Ahmed_book_cover.jpeg"
+  
+  },
+  {
+    "id": "7",
+    "name": "Lilabotir MriTyu",
+    "writer": " Humayun Ahmed",
+    "price": 226,
+    "ratings": 4,
+    "img": "https://www.upoharbd.com/images/uploads/Books/Humayun%20Ahmed/book136.jpg"
+  },
+  {
+    "id": "8",
+    "name": "Blackholer Baccha",
+    "writer": " Muhammad Jafor Iqbal",
+    "price": 119,
+    "ratings": 4,
+    "img": "https://www.upoharbd.com/images/uploads/Books/blackhole-er-baccha.jpg"
+  },
+  {
+    "id": "9",
+    "name": "Ami Topu",
+    "writer": " Muhammad Jafor Iqbal",
+    "price": 170,
+    "ratings": 5,
+    "img": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1438351473l/3918747._SY475_.jpg"
+ 
+  },
+  {
+    "id": "10",
+    "name": "Programming Er ChoddoGusti",
+    "writer": "Jhankar Mahbub",
+    "price": 297,
+    "ratings": 4,
+    "img": "https://m.media-amazon.com/images/I/41ifBtAoOcL.jpg"
+  },
+  {
+    "id": "11",
+    "name": "Programming E Bolod To Boss",
+    "writer": "Jhankar Mahbub",
+    "price": 346,
+    "ratings": 5,
+    "img": "https://m.media-amazon.com/images/I/41zq8jCSYJL.jpg"
+  },
+  {
+    "id": "12",
+    "name": "Recharge Your Dowen Battery",
+    "writer": "Jhankar Mahbub",
+    "price": 409,
+    "ratings": 5,
+    "img": "https://static-01.daraz.com.bd/p/575bb4237680ff31ed0ca7e3f25eeeea.jpg"
+   
+  }
+]
