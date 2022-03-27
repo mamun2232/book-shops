@@ -16,9 +16,11 @@
 }
 .cart-img img{
       width: 60px;
+      border-radius: 8px;
       
 }
 
 .random-cart{
       display: flex;
+      margin-left: 10px;
 }
